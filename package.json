@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/cfsanderson/graphql-fff-goodreads/issues"
   },
-  "homepage": "https://github.com/cfsanderson/graphql-fff-goodreads#readme"
+  "homepage": "https://github.com/cfsanderson/graphql-fff-goodreads#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
 }
