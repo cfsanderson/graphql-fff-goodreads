@@ -1,0 +1,19 @@
+{
+  "name": "graphql-fff-goodreads",
+  "version": "1.0.0",
+  "description": "graphQL tutorial",
+  "main": "serve.js",
+  "scripts": {
+    "test": "testes"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cfsanderson/graphql-fff-goodreads.git"
+  },
+  "author": "cfsanderson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cfsanderson/graphql-fff-goodreads/issues"
+  },
+  "homepage": "https://github.com/cfsanderson/graphql-fff-goodreads#readme"
+}
